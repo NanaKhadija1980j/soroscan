@@ -16,3 +16,4 @@ scripts/push_new_wave_issues.py
 backlogs/
 scripts/push_next_wave_65.py
 scripts/repush_clean_wave_55.py
+config.bat
